@@ -1,4 +1,4 @@
-import { init } from "./Player.js";
+import { init } from "https://isenpa.github.io/Apis/Player.js";
 
 const main = document.getElementById('app');
 const btn = document.getElementById('change');
